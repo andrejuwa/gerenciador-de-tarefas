@@ -12,9 +12,5 @@
     "psr-4": {
       "Andrejuwa\\GerenciadorDeTarefas\\": "src/"
     }
-  },
-  "require": {
-    "php": "^7.4 || ^8.0",
-    "illuminate/support": "^8.0"
   }
 }
