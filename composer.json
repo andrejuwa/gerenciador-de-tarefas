@@ -13,5 +13,12 @@
     "psr-4": {
       "Andrejuwa\\GerenciadorDeTarefas\\": "src/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Andrejuwa\\gerenciador-de-tarefas\\GerenciadorDeTarefasProvaider"
+      ]
+    }
   }
 }
