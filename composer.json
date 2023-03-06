@@ -2,6 +2,7 @@
   "name": "Andrejuwa/gerenciador-de-tarefas",
   "description": "Um pacote Laravel para gerenciamento de tarefas",
   "type": "library",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Andre Junior Wagner",
