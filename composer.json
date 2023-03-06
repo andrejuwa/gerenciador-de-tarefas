@@ -1,0 +1,20 @@
+{
+  "name": "Andrejuwa/gerenciador-de-tarefas",
+  "description": "Um pacote Laravel para gerenciamento de tarefas",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Andre Junior Wagner",
+      "email": "andrejuwa2@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Andrejuwa\\GerenciadorDeTarefas\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "illuminate/support": "^8.0"
+  }
+}
