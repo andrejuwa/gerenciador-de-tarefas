@@ -17,7 +17,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Andrejuwa\\gerenciador-de-tarefas\\Providers\\GerenciadorDeTarefasProvaider"
+        "Andrejuwa\\GerenciadorDeTarefas\\Providers\\GerenciadorDeTarefasProvaider"
       ]
     }
   }
